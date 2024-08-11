@@ -9,10 +9,10 @@ Curvetopia is a project developed as part of the Adobe Gensolve hackathon. This 
 ## Project Overview
 Curvetopia consists of three main approaches, each implemented in separate Jupyter notebooks (`.ipynb`). Each notebook addresses a unique problem related to shape detection, symmetry detection, and curve completion.
 
-### 1. Regularizeshapes_approach2.ipynb
+### 1. regularizeshapes_approach2.ipynb
 This notebook processes the `isolated.csv` dataset to detect and classify different shapes within the data. It displays the shapes and their corresponding classifications, providing insights into the structural properties of each shape.
 
-### 2. Symmetry_detection_approach1.ipynb
+### 2. symmetry_detection_approach1.ipynb
 This notebook focuses on symmetry detection within regular shapes. It uses the `hexplot` function to draw lines of symmetry, saving the output in SVG format for high-quality visual representation. The method is particularly effective for identifying symmetry in hexagonal shapes.
 
 ### 3. regularize_and_curvecompletion_and_new_approach_to_symmetry.ipynb
