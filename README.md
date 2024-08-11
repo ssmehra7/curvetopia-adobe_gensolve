@@ -4,7 +4,7 @@ Curvetopia is a project developed as part of the Adobe Gensolve hackathon. This 
 
 ## Team Members
 - [Simarjeet Singh Mehra](https://github.com/ssmehra7)
-- [Ankit Raj Singh](https://github.com/turbulent7)
+- [Ankit Raj](https://github.com/turbulent7)
 
 ## Project Overview
 Curvetopia consists of three main approaches, each implemented in separate Jupyter notebooks (`.ipynb`). Each notebook addresses a unique problem related to shape detection, symmetry detection, and curve completion.
