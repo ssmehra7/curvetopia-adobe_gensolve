@@ -11,7 +11,7 @@ Curvetopia consists of three main approaches, each implemented in separate Jupyt
 
 
 
-### 1. symmetry_detection_approach1.ipynb
+### 1. Occulsion_Symmetry_detection_approach_1_line of symmetry.ipynb
 This notebook focuses on symmetry detection within regular shapes. It uses the `hexplot` function to draw lines of symmetry, saving the output in SVG format for high-quality visual representation. The method is particularly effective for identifying symmetry in hexagonal shapes.
 
 ### 2.Regularization_and_Symmetry_detection_for_isolated_and_frag.ipynb
